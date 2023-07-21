@@ -36,5 +36,6 @@ public class Alice {
 
         firstPara = firstChunk+ " " + secChunk;
         System.out.println(firstPara);
+        scan.close();
     }
 }
